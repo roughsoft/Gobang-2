@@ -1,7 +1,7 @@
 Gobang
 ======
 
-Some Gobang games with very high Aritificial Intelligence
+Some Gobang games with very high Artificial Intelligence
 
 - In the Gobang in ASM directory:
 
