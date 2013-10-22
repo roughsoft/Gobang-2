@@ -13,7 +13,7 @@ Some Gobang games with very high Aritificial Intelligence
 
   A Gobang game written in C++.<br/>
   It runs in the Command Mode but still supports Mouse clicks because I wrote some codes about the Windows API and hook functions.<br/>
-  This game includes a very high AI. It wons the 8th place in the [campus competition](http://www.botzone.org/RATE/resultview?contestid=115), which is the best result for 1-st year students.<br/>
+  This game includes a very high AI. It won the 8th place in the [campus competition](http://www.botzone.org/RATE/resultview?contestid=115), which is the best result for 1-st year students.<br/>
 
 - In the Gobang with GUI directory:
 
