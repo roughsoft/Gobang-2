@@ -20,3 +20,4 @@ Some Gobang games with very high Artificial Intelligence
   A Gobang game written in C#, with full network support.<br/>
   The white side is the server and the black is the client.<br/>
   Players can input the IP of the opposite side to play Gobang online.<br/>
+  They can also save and load the games or replay completed games.
