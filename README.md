@@ -17,6 +17,6 @@ Some Gobang games with very high Aritificial Intelligence
 
 - In the Gobang with GUI directory:
 
-  A Gobang game written in C#, with the full network support.<br/>
-  The white chessman is the server and the black is the client.<br/>
+  A Gobang game written in C#, with full network support.<br/>
+  The white side is the server and the black is the client.<br/>
   Players can input the IP of the opposite side to play Gobang online.<br/>
