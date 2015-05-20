@@ -9,7 +9,7 @@ Some Gobang games with very high Artificial Intelligence
   - It supports inter-computer games and can show a countdown timer in the nixie tubes. <br/>
   - The chessboard will be displayed both in the screen and an LED matrix.<br/>
 
-- Gobang in Command Promp:
+- Gobang in Command Prompt:
 
   - A Gobang game written in C++.<br/>
   - It runs in the Command Mode but still supports Mouse clicks because I wrote some codes about the Windows API and hook functions.<br/>
